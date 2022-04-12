@@ -124,6 +124,26 @@
   background: url(../img/bg1.jpg) no-repeat top center/cover;
 }
 
+.container .main header.header_two {
+  background: url(../img/bg2.jpg) no-repeat top center/cover;
+}
+
+.container .main header.header_three {
+  background: url(../img/bg3.jpg) no-repeat top center/cover;
+}
+
+.container .main header.header_four {
+  background: url(../img/bg4.jpg) no-repeat top center/cover;
+}
+
+.container .main header.header_five {
+  background: url(../img/bg5.jpg) no-repeat top center/cover;
+}
+
+.container .main header.header_six {
+  background: url(../img/bg6.jpg) no-repeat top center/cover;
+}
+
 .container .main header .header {
   position: absolute;
   width: 100%;
